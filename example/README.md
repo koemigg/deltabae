@@ -10,7 +10,7 @@ This directory contains examples of how to use the deltabae.sh script in the par
 ## Steps to Run the Example
 
 1. Move into this directory: `cd example`
-2. Run the deltabae.sh script: `bash ../deltabae.sh -f a.txt -s b.txt`
+2. Run the deltabae.sh script: `zsh ../deltabae.sh -f a.txt -s b.txt`
 3. Open the generated `./tmp/diff.html` file in a web browser to view the output.
 
 The `diff.html` file should show the differences between `a.txt` and `b.txt` in a side-by-side format with syntax highlighting.

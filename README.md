@@ -1,4 +1,4 @@
-# Delta Diff to HTML
+# Deltabae: Delta Diff to HTML
 
 ### Requirements
 

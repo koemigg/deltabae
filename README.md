@@ -30,6 +30,6 @@ Deltabae accepts the following command line options:
 
 For example, to compare `file1.txt` and `file2.txt`, output the result to the `path/to/my-project/results` directory, and name the output file `my_diff.html`, you would run:
 
-```
-`deltabae.sh` -f file1.txt -s file2.txt -o `path/to/my-project/results` -n my_diff
+```zsh
+deltabae.sh -f file1.txt -s file2.txt -o path/to/my-project/results -n my_diff
 ```

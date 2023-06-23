@@ -13,7 +13,7 @@ To use Deltabae, you'll need to have both delta and ansifilter installed.
 
 You can use Deltabae by providing the names of the two files you want to compare. Here's a basic example:
 
-```bash
+```zsh
 deltabae.sh -f your_first_file -s your_second_file
 ```
 

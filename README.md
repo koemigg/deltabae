@@ -33,3 +33,11 @@ For example, to compare `file1.txt` and `file2.txt`, output the result to the `p
 ```zsh
 deltabae.sh -f file1.txt -s file2.txt -o path/to/my-project/results -n my_diff
 ```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+Deltabae is licensed under the MIT License. See [LICENSE](https://github.com/Harxxki/deltabae/blob/main/LICENSE) for more information.
